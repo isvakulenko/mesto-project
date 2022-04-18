@@ -19,7 +19,7 @@
 
 **Github Page**
 
-* [Ссылка на проект на Github Pages](https://isvakulenko.github.io/mesto/index.html)
+* [Ссылка на проект на Github Pages](https://isvakulenko.github.io/mesto-project/index.html)
 
 **Figma**
 
